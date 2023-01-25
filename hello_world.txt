@@ -1,0 +1,1 @@
+This is the hello world sample at the git staging area. Testing if this saving works enable a student to become proficient with using git.
